@@ -3,12 +3,10 @@ import './App.css';
 function App() {
   return (
     <div className="App">
-      <header className="App-header">
+      <body className="App-body">
         <h1>
           JAM APP STAGE ZERO
         </h1>
-      </header>
-      <body className="App-body">
         <h2>My React Projects</h2>
           <h3>Empty... for now</h3>
         <h2>LaunchCode LiftOff Capstone Project:</h2>

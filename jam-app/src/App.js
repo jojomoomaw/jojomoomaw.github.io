@@ -1,9 +1,12 @@
+import React from 'react';
+import Navbar from './components/Navbar/Navbar'
 import './App.css';
 
 function App() {
   return (
     <div className="App">
       <body className="App-body">
+      <Navbar />
         <h1>
           JAM APP STAGE ZERO
         </h1>
